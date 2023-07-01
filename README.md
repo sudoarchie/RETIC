@@ -1,4 +1,4 @@
-# RETIC - Ticket Reshelling
+# RETIC - Ticket Reselling
 
 Welcome to RETIC - Ticket Reshelling! This is a company that specializes in providing ticket reshelling services for various events and venues. This README file will guide you through the necessary information and steps to understand and use our services effectively.
 
