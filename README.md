@@ -1,6 +1,6 @@
 # RETIC - Ticket Reselling
 
-Welcome to RETIC - Ticket Reshelling! This is a company that specializes in providing ticket reshelling services for various events and venues. This README file will guide you through the necessary information and steps to understand and use our services effectively.
+Welcome to RETIC - Ticket Reselling! This is a company that specializes in providing ticket reshelling services for various events and venues. This README file will guide you through the necessary information and steps to understand and use our services effectively.
 
 ## Table of Contents
 
@@ -13,7 +13,7 @@ Welcome to RETIC - Ticket Reshelling! This is a company that specializes in prov
 
 ## Introduction
 
-RETIC is a ticket reshelling company that helps individuals and organizations resell their event tickets securely and efficiently. We understand that sometimes plans change, and it can be challenging to find a suitable buyer for your tickets. Our platform provides a trusted marketplace for ticket sellers and buyers, ensuring a smooth and reliable experience for both parties.
+RETIC is a ticket reselling company that helps individuals and organizations resell their event tickets securely and efficiently. We understand that sometimes plans change, and it can be challenging to find a suitable buyer for your tickets. Our platform provides a trusted marketplace for ticket sellers and buyers, ensuring a smooth and reliable experience for both parties.
 
 ## Features
 
@@ -39,7 +39,7 @@ To get started with RETIC and begin reshelling your tickets, follow these steps:
 
 ## Usage
 
-Our ticket reshelling platform is designed to be simple and intuitive. Sellers can easily list their tickets, while buyers can conveniently browse and purchase tickets for their desired events.
+Our ticket reselling platform is designed to be simple and intuitive. Sellers can easily list their tickets, while buyers can conveniently browse and purchase tickets for their desired events.
 
 For sellers:
 - Log in to your RETIC account.
@@ -62,8 +62,8 @@ When contributing to this project, please review the guidelines and code of cond
 
 ## License
 
-The RETIC - Ticket Reshelling platform is licensed under the [Creative Commons Attribution 4.0 International License](https://creativecommons.org/licenses/by/4.0/). Please review the license terms and conditions provided by Creative Commons for more information.
+The RETIC - Ticket Reselling platform is licensed under the [Creative Commons Attribution 4.0 International License](https://creativecommons.org/licenses/by/4.0/). Please review the license terms and conditions provided by Creative Commons for more information.
 
 ---
 
-Thank you for choosing RETIC - Ticket Reshelling! We aim to provide a reliable and secure platform for ticket reshelling. Should you have any questions or require assistance, our support team is here to help. Enjoy your ticket reshelling experience!
+Thank you for choosing RETIC - Ticket Reselling! We aim to provide a reliable and secure platform for ticket reshelling. Should you have any questions or require assistance, our support team is here to help. Enjoy your ticket reselling experience!
